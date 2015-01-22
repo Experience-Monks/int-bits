@@ -1,0 +1,42 @@
+{
+  "name": "int-bits",
+  "version": "1.0.0",
+  "description": "converts int bits to float and back",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "int",
+    "bits",
+    "float",
+    "rgb",
+    "rgba",
+    "bgra",
+    "bgr",
+    "abgr",
+    "color",
+    "pack",
+    "unpack",
+    "int8",
+    "float32",
+    "32",
+    "8"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/int-bits.git"
+  },
+  "homepage": "https://github.com/Jam3/int-bits",
+  "bugs": {
+    "url": "https://github.com/Jam3/int-bits/issues"
+  }
+}
