@@ -10,7 +10,9 @@
     "url": "https://github.com/mattdesl"
   },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "tape": "^4.8.0"
+  },
   "scripts": {
     "test": "node test.js"
   },
